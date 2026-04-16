@@ -1,4 +1,4 @@
-venv/
+etl/
 *.db
 *.csv
 *.txt
