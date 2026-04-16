@@ -9,7 +9,7 @@ This project implements a Proof of Concept (POC) for a weather data pipeline. It
 *   **Operating System:** Linux (Debian 12 Slim) via Docker.
 *   **Language:** Bash Scripting.
 *   **Automation:** Cron (system scheduler).
-*   **Data Source:** `wttr.in` (External weather service).
+*   **Data Source:** [wttr.in] (External weather service).
 *   **Processing Tools:** `curl`, `grep`, `cut`, `head`, `tail`.
 
 ## ETL Process Workflow
