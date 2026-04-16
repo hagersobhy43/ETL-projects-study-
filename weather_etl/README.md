@@ -45,9 +45,12 @@ crontab -e
 # Add the following line to run the script daily at noon:
 0 12 * * * /bin/bash /app/rx_poc.sh
 ```
+### Row Data Sample
+<img width="1802" height="1039" alt="Screenshot 2026-04-16 at 4 52 33 AM" src="https://github.com/user-attachments/assets/c55e2bc9-35b5-4774-a01f-ed32bfd227d7" />
+
 ### Log Sample Output
-year    month   day     obs_tmp     fc_temp
-2026    04      16      34C         31C
+<img width="826" height="181" alt="Screenshot 2026-04-16 at 4 52AM" src="https://github.com/user-attachments/assets/2c6bdc77-cdaf-41d4-b357-0912343bf4d7" />
+
 
 
 
