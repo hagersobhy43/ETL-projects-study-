@@ -36,7 +36,7 @@ docker build -t weather_image .
 ```
 ### 2. Run the Container
 ```bash
-docker run -d --name weather_runner -v "$(pwd)":/app weather_etl_image
+docker run -d --name weather_runner -v "$(pwd)":/app weather_image
 ```
 ### 3. Schedule the Cron Job
 ```bash
